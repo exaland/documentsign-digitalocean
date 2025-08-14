@@ -2,7 +2,7 @@
 
 The deploy button on the DigitalOcean platform. [DocuSeal](https://www.docuseal.com/) is an open source DocuSign alternative
 
-[![Deploy on DigitalOcean](https://www.deploytodo.com/do-btn-blue.svg)](https://cloud.digitalocean.com/apps/new?repo=https://github.com/docusealco/docuseal-digitalocean/tree/master&refcode=421d50f53990)
+[![Deploy on DigitalOcean](https://www.deploytodo.com/do-btn-blue.svg)](https://cloud.digitalocean.com/apps/new?repo=https://github.com/exaland/documentsign-digitalocean/tree/master)
 
 ## How to use
 
