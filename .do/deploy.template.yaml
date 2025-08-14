@@ -1,7 +1,7 @@
 spec:
-  name: docuseal
+  name: signeici
   services:
-  - name: docuseal
+  - name: signeici
     dockerfile_path: Dockerfile
     git:
       repo_clone_url: https://github.com/exaland/documentsign.git
@@ -11,6 +11,6 @@ spec:
       scope: RUN_TIME
     - key: DATABASE_URL
       scope: RUN_TIME
-      value: ${docuseal-db.DATABASE_URL}
+      value: ${signeici-db.DATABASE_URL}
   databases:
-  - name: docuseal-db
+  - name: signeici-db
