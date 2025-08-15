@@ -4,7 +4,7 @@ spec:
   - name: signeici
     dockerfile_path: Dockerfile
     git:
-      repo_clone_url: https://github.com/exaland/documentsign.git
+      repo_clone_url: https://github.com/exaland/documentsign-digitalocean.git
       branch: master
     envs:
     - key: SECRET_KEY_BASE
